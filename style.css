@@ -1,0 +1,110 @@
+/* START  navigation module CSS here   */.navbar{
+	
+	background-image:url("images/ITACHI.jpg");
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.navbar li{
+margin-right:10px;
+font-size: 20px;
+
+}
+
+/* END  navigation module CSS here   */
+
+/* START CAROUSEL MODULES CSS */#carousel img
+{
+	height:550px;
+}
+
+/* END CAROUSEL MODULES CSS*/
+
+/* START THREE PHOTO MODULES CSS*/#threePhotoSection img
+{
+	width:420px;
+	height:300px;
+	border-radius:50%;
+	masrgin:10px;
+}
+#threePhotoSection img:hover
+{
+	width:425px;
+	height:300px;
+	border-radius:20%;
+	opacity:0.7;
+}
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+#threePhotoSection
+{
+	margin-bottom:30px;
+}
+.card{
+	background-image: url("images/back1.jpg")
+}
+
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+HTML CONTENT IS SAME AS ABOVE. COPY THE SIMPLE WHITE HTML	#moreAboutUs h3 
+{
+	padding:25px;
+	padding-bottom:40px;
+}
+
+#moreAboutUs  blockquote
+{
+	padding:55px;
+	
+}
+#moreAboutUs
+{
+	background-image: url("images/pback.jpg");
+	  background-width: 100%;
+	color:white;
+}
+
+
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+/* END OF TABLE MODULE CSS*/
+
+/* START OF FORM MODULES CSS*/.contact{
+	 background-image: url("images/form1.jpg");
+	}
+
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+   margin-top:50px;
+}
+
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/.footer{
+	background-image: url("images/back1.jpg");
+	color:white;
+}
+
+ /* END OF FOOTER CSS*/
+
+ .card-body{
+     color:white;
+     
+     border-radius:10px;
+
+ }
